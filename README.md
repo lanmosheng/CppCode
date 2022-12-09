@@ -1,2 +1,3 @@
 # CppCode
-Recording my CppCode
+这里是我的c++代码
+用来记录算法相关以及小项目的代码
